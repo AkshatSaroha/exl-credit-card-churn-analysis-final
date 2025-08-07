@@ -1,0 +1,12 @@
+Model: Random Forest
+Accuracy: 0.6450
+Precision: 0.6445
+Recall: 0.6460
+F1 score: 0.6439
+Confusion Matrix:
+[[70 40]
+ [31 59]]
+Top 3 Important Features:
+EstimatedSalary    0.215577
+Age                0.181940
+Tenure             0.157648
