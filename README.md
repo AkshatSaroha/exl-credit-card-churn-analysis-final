@@ -1,4 +1,4 @@
-# EXL Credit Card Churn Prediction
+# Credit Card Churn Prediction
 
 ## Project Overview
 Machine Learning project to predict credit card customer churn using behavioral and demographic data.
